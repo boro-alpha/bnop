@@ -2,7 +2,7 @@
 
 BNOP is a reference library containing the code for the BNOP Domain (BORO Native Objects (Python)).
 
-**This project is currently closed, but can be sporadically updated by the BORO Development Team it in the future.**
+**This project is currently closed, but may be sporadically updated by the BORO Development Team in the future.**
 
 ## Execution
 
@@ -12,7 +12,7 @@ BNOP is a reference library containing the code for the BNOP Domain (BORO Native
 
 For examples see usages in the following projects:
 
-* https://github.com/boro-alpha/bclearer_boson_1.git
+* https://github.com/boro-alpha/bclearer_boson_1_1.git
 
 ## Documentation
 
